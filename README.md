@@ -21,6 +21,9 @@ The Basic Die Game is a fun and simple game that simulates the rolling of two di
 - Winner Determination: Compares the results of the two dice rolls and announces the winner.
 - Simple and Clean Design: The user interface is straightforward and easy to use.
 
+## Project Overview
+![image](https://github.com/nityambhargava/Dicee-Game/assets/149382373/85aa62e1-e8e5-49dd-becb-5b6fa5402158)
+
 ## Technologies Used
 
 - HTML: Structure and layout of the web page.
